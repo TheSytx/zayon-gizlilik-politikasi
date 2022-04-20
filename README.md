@@ -1,2 +1,3 @@
-# zayon-gizlilik-politikasi
-Zayon Botun Gizlilik Politikası
+# Zayon Bot Gizlilik Politikası
+
+Zayon'u kullanarak aşağıdaki gizlilik politikasını kabul etmiş varsayılır.
